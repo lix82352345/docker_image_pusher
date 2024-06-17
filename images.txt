@@ -4,4 +4,7 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/mirrored-kiwigrid-k8s-sidecar:1.19.2
+rancher/mirrored-kube-state-metrics-kube-state-metrics:v2.6.0
+rancher/mirrored-prometheus-operator-prometheus-operator:v0.59.1
+rancher/mirrored-prometheus-adapter-prometheus-adapter:v0.10.0
+rancher/mirrored-prometheus-node-exporter:v1.3.1
